@@ -18,12 +18,4 @@ def BinarySearch(sorted_array,item):
 
 
 
-if __name__ == "__main__":
-
-    sorted_array=[1,2,3,4,8,9]
-    search= 8
-    
-    print(f"The Index of Element {search} is {BinarySearch(sorted_array,search)}")
-
-
 
